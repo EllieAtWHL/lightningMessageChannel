@@ -1,0 +1,12 @@
+<template>
+    <lightning-card>
+        <lightning-tabset active-tab-value="display">
+            <lightning-tab label="Display" value="display">
+                    <c-example-display text={text}></c-example-display>
+            </lightning-tab>
+            <lightning-tab label="Submit" value="submit">
+                    <c-example-submit onsubmit={handleSubmit}></c-example-submit> 
+            </lightning-tab>
+        </lightning-tabset>  
+    </lightning-card>    
+</template>
