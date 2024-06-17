@@ -1,0 +1,17 @@
+<template>
+
+    <div class="slds-text-heading_large">
+        {page}
+    </div>
+
+    <lightning-breadcrumbs>
+        <template for:each={breadcrumbs} for:item="breadcrumb">
+            <lightning-breadcrumb
+                key={breadcrumb.label}
+                label={breadcrumb.label}
+                url={breadcrumb.url}>
+            </lightning-breadcrumb>
+        </template>
+    </lightning-breadcrumbs>
+    
+</template>
