@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LightningMessageChannel xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>This is used to pass the details of the selected person from the search results component to the edit person component</description>
+    <isExposed>true</isExposed>
+    <lightningMessageFields>
+        <description>The current data representing the record that changed - a string of JSON</description>
+        <fieldName>recordData</fieldName>
+    </lightningMessageFields>
+    <masterLabel>Selected Person</masterLabel>
+</LightningMessageChannel>
