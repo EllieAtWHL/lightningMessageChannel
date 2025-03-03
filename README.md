@@ -4,15 +4,10 @@ Unlock the Power of Lightning Message Channels! Discover how to revolutionise yo
 
 ## Resources
 
-### Salesforce Documentation
+I maintain a long list of resources used for my research at https://linktr.ee/LightningMessageChannels
 
-- [Create a Message Channel | Use Components in Salesforce Targets](https://developer.salesforce.com/docs/platform/lwc/guide/use-message-channel-intro.html)
-- [LightningMessageChannel | Metadata API Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.api_meta.meta/api_meta/meta_lightningmessagechannel.htm)
+Or scan the QR code below
 
-### Blog
-
-- [Apex Hours | Lightning Message Service (LMS)](https://www.apexhours.com/lightning-message-service-lms-messagechannel/)
-
-### Presentation Slides
-
-- [London's Calling 2024 | Unlocking Communication: Lightning Message Channels Demystified](https://docs.google.com/presentation/d/17ogqPmr-l4PRbSua3L9ZZ_Tf1egQsN8oD93M9uIWZsc/edit?usp=sharing)
+<div style="background-color: white; padding: 10px; display: inline-block;">
+  <img src="images/LightningMessageChannels.png" alt="Lightning Message Channels" width="300">
+</div>
