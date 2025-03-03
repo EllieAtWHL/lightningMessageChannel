@@ -1,3 +1,6 @@
 node_modules
 .sfdx/*
 .sf/*
+
+config/user
+hardis-report
